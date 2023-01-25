@@ -27,8 +27,8 @@ Finally,print the number of words and display the output.
 ## PROGRAM:
 ```python
 Program to find the gcd of a number using function.
-Developed by: DHARSHAN V
-RegisterNumber: 22003103
+Developed by: Jivan Karthec.B.S
+RegisterNumber: 22004763
 num_words = 0
 with open ('myfile.txt','r') as file1:
     for i in file1:
